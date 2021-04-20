@@ -20,7 +20,7 @@ All Options are availible over the Web-Gui (URL = Ip of Raspberry)
 - Raspberry Pi 4 (4GB Model B)
 - 2.4" TFT LCD
 - TP-Link TL-WN722N V3.0
-- StarTech USB Extension
+- StarTech USB Extension (15 cm)
 - Random 64GB SD Card
 - Renkforce 5 Port Ethernet Switch
 - OKdo Raspby Case
