@@ -3,7 +3,7 @@
 ## A Simulated Network Training Environment
 
 
-Tech-LAB is a Work Project that we have been working on.
+1 is a Work Project that we have been working on.
 Our Goal is to simulate a Network-Environment using:
 
 - Raspberry Pi
@@ -27,6 +27,4 @@ We will be testing the Environment with the Top 10 OWASP Security Risks.
 - Renkforce 5 Port Ethernet Switch
 - OKdo Raspby Case
 
-In Total we spent around 150$ USD for our Tech-LAB.
-
-You can also run the Software on other Raspberry Pi's such as B+ or Pi 3.
+In Total we spent around 150$ USD for our 1.
