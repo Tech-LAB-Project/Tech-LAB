@@ -15,7 +15,7 @@ This Simulated Network-Environment can be used for Penetration Testing, Cyber-Se
 
 All Options are availible over the Web-Gui (URL = Ip of Raspberry)
 
-## Parts List:
+## Parts List
 
 - Raspberry Pi 4 (4GB Model B)
 - 2.4" TFT LCD
