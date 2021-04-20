@@ -13,7 +13,7 @@ Our Goal is to simulate a Network-Environment using:
 
 This Simulated Network-Environment can be used for Penetration Testing, Cyber-Security Research and Ethical Hacking Demos.
 
-All Options are availible over the Web-Gui (URL = IP of Pi)
+All Options are available over the Web-Gui (URL = IP of Pi)
 
 We will be testing the Environment with the Top 10 OWASP Security Risks.
 
@@ -27,4 +27,4 @@ We will be testing the Environment with the Top 10 OWASP Security Risks.
 - Renkforce 5 Port Ethernet Switch
 - OKdo Raspby Case
 
-In Total we spent around 150$ USD.
+In Total we spent around 150$ USD for our Tech-LAB.
