@@ -13,7 +13,9 @@ Our Goal is to simulate a Network-Environment using:
 
 This Simulated Network-Environment can be used for Penetration Testing, Cyber-Security Research and Ethical Hacking Demos.
 
-All Options are availible over the Web-Gui (URL = Ip of Raspberry)
+All Options are availible over the Web-Gui (URL = IP of Pi)
+
+We will be testing the Environment with the Top 10 OWASP Security Risks.
 
 ## Parts List
 
