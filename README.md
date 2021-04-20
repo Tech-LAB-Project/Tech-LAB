@@ -28,3 +28,5 @@ We will be testing the Environment with the Top 10 OWASP Security Risks.
 - OKdo Raspby Case
 
 In Total we spent around 150$ USD for our Tech-LAB.
+
+You can also run the Software on other Raspberry Pi's such as B+ or Pi 3.
