@@ -25,6 +25,6 @@ We will be testing the Environment with the Top 10 OWASP Security Risks.
 - StarTech USB Extension (15 cm)
 - Random 64GB SD Card
 - Renkforce 5 Port Ethernet Switch
-- OKdo Raspby Case
+- OKdo Raspi Case
 
 In Total we spent around 150$ USD for our 1.
