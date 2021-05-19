@@ -1,16 +1,8 @@
 # Tech-LAB
 
-## A Simulated Network Training Environment
+## All in one DIY Pentesting OS
 
 Tech-LAB is a Work Project that we have been working on.
-Our Goal is to simulate a Network-Environment using:
-
-- Raspberry Pi
-- USB Wifi Adapter
-- USB Network Switch
-- And some miscellaneous Parts
-
-This Simulated Network-Environment can be used for Penetration Testing, Cyber-Security Research and Ethical Hacking Demos.
 
 All Options are available over the Web-Gui (URL = 192.168.1.1)
 
