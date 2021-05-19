@@ -14,7 +14,14 @@ This Simulated Network-Environment can be used for Penetration Testing, Cyber-Se
 
 All Options are available over the Web-Gui (URL = 192.168.1.1)
 
-We will be testing the Environment with the Top 10 OWASP Security Risks.
+
+## Software List (Will be updated)
+
+- Webmin 1.974 (https://www.webmin.com/)
+- Aircrack-ng 1.6 (https://www.aircrack-ng.org/)
+- Nikto 2.1.6 (https://github.com/sullo/nikto)
+- SQLMap 1.5 (https://sqlmap.org/)
+- Crunch 1.6 (https://sourceforge.net/projects/crunch-wordlist/)
 
 
 ## Release
@@ -33,10 +40,6 @@ We will be testing the Environment with the Top 10 OWASP Security Risks.
 
 In Total we spent around 150$ USD for our Tech-LAB.
 
-## Software List (Will be updated)
-
-- Webmin 1.974 (https://www.webmin.com/)
-- Aircrack-ng 1.6 (https://www.aircrack-ng.org/)
 
 ## Configuration
 
@@ -47,7 +50,7 @@ Have Fun!
 
 ## Disclaimer
 
-Pentest tools for authorized auditing/security analysis only where permitted. Subject to local and international laws where applicable. Users solely responsible for compliance.
+Pentesting Software for authorized auditing/security analysis only where permitted. Subject to local and international laws where applicable. Users solely responsible for compliance. Tech-LAB comes WITHOUT WARRANTY or SUPPORT!
 
 
 ## License
