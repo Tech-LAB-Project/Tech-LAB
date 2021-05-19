@@ -17,6 +17,9 @@ All Options are available over the Web-Gui (URL = 192.168.1.1)
 
 We will be testing the Environment with the Top 10 OWASP Security Risks.
 
+## Release
+- v1.3-alpha (https://anonfiles.com/V4keU3w9u7/Tech-LAB-1.3-ALPHA-RPI3_7z)
+
 ## Parts List
 
 - Raspberry Pi 3
