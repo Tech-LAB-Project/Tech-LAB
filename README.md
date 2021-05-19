@@ -35,8 +35,8 @@ In Total we spent around 150$ USD for our Tech-LAB.
 
 ## Software List (Will be updated)
 
--Webmin 1.974 (https://www.webmin.com/)
--Aircrack-ng 1.6 (https://www.aircrack-ng.org/)
+- Webmin 1.974 (https://www.webmin.com/)
+- Aircrack-ng 1.6 (https://www.aircrack-ng.org/)
 
 ## Configuration
 
