@@ -25,7 +25,7 @@ All Options are available over the Web-Gui (URL = 192.168.1.1)
 
 
 ## Release
-- v1.3-release (Coming Soon)
+- v1.4-alpha (https://anonfiles.com/l5q4b2x4u9/Tech-LAB-1.4-ALPHA-RPI3_7z)
 - v1.3-alpha (https://anonfiles.com/V4keU3w9u7/Tech-LAB-1.3-ALPHA-RPI3_7z)
 
 
