@@ -3,7 +3,7 @@
 ## A Simulated Network Training Environment
 
 
-1 is a Work Project that we have been working on.
+Tech-LAB is a Work Project that we have been working on.
 Our Goal is to simulate a Network-Environment using:
 
 - Raspberry Pi
