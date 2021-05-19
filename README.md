@@ -38,3 +38,8 @@ In Total we spent around 150$ USD for our Tech-LAB.
 To use your Tech-LAB you might have to change some settings, please email us at bugs@techlabproject.org
 
 Have Fun!
+
+
+## Disclaimer
+
+Pentest tools for authorized auditing/security analysis only where permitted. Subject to local and international laws where applicable. Users solely responsible for compliance.
