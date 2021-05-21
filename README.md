@@ -10,7 +10,7 @@ All Options are available over the Web-Gui (URL = 192.168.1.1)
 ## Software List (Will be updated)
 
 - Webmin 1.974 (https://www.webmin.com/)
-- Aircrack-ng 1.6 (https://www.aircrack-ng.org/) (needs to be made with gmake)
+- Aircrack-ng 1.6 (https://www.aircrack-ng.org/) (Git is cloned, needs to be made with make / gmake, due to legal reasons)
 - Nikto 2.1.6 (https://github.com/sullo/nikto)
 - SQLMap 1.5 (https://sqlmap.org/)
 - Crunch 1.6 (https://sourceforge.net/projects/crunch-wordlist/)
