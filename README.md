@@ -15,6 +15,7 @@ To Install Tech-LAB you need a RPI3 or RPI4, just burn the Image onto an SD Card
 - Metasploit Framework 4.19.1 (https://www.metasploit.com/)
 - Aircrack-ng 1.6 (https://www.aircrack-ng.org/) (Git is cloned, needs to be made with make / gmake)
 - Nikto 2.1.6 (https://github.com/sullo/nikto)
+- NMAP 7.9 (https://nmap.org/)
 - SQLMap 1.5 (https://sqlmap.org/)
 - Crunch 1.6 (https://sourceforge.net/projects/crunch-wordlist/)
 
