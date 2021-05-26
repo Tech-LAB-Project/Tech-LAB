@@ -4,9 +4,9 @@
 
 Tech-LAB is a Work Project that we have been working on.
 
-All Options are available over the Web-Gui (URL over AP = 192.168.1.1) or (URL of Tech-LAB (ifconfig))
+To Install Tech-LAB you need a RPI3 or RPI4, just burn the Image onto an SD Card and you're up and running!
 
-[Quick Start Guide](https://infograph.venngage.com/view/65246dff-13ee-420a-ae12-a803376c4391) after Installation
+[Quick Start Guide](https://infograph.venngage.com/view/65246dff-13ee-420a-ae12-a803376c4391) after Installation.
 
 
 ## Software List (Will be updated)
