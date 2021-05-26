@@ -4,7 +4,7 @@
 
 Tech-LAB is a Work Project that we have been working on.
 
-All Options are available over the Web-Gui (URL = 192.168.1.1)
+All Options are available over the Web-Gui (URL over AP = 192.168.1.1) or (URL of Tech-LAB (ifconfig))
 
 
 ## Software List (Will be updated)
