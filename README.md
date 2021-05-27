@@ -1,6 +1,6 @@
 # Tech-LAB
 
-## All in one DIY Pentesting OS
+## Simulated Network Training Environment
 
 To Install Tech-LAB you need a RPI3 or RPI4, just burn the Image onto an SD Card and you're up and running!
 
