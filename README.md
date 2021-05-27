@@ -2,7 +2,7 @@
 
 ## All in one DIY Pentesting OS
 
-Tech-LAB is a Work Project that we have been working on.
+[Official Website](https://www.techlabproject.org) [Patreon](https://www.patreon.com/techlabproject)
 
 To Install Tech-LAB you need a RPI3 or RPI4, just burn the Image onto an SD Card and you're up and running!
 
@@ -26,6 +26,8 @@ To Install Tech-LAB you need a RPI3 or RPI4, just burn the Image onto an SD Card
 
 
 ## Configuration
+
+If you mess up your AP, just use the command `sh techlabreset.sh` to reset the AP
 
 To use your Tech-LAB you might have to change some settings, please email us at bugs@techlabproject.org
 
