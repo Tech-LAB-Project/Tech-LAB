@@ -6,15 +6,15 @@ To Install Tech-LAB you need a RPI3 or RPI4, just burn the Image onto an SD Card
 
 [Quick Start Guide](https://venngage.net/ps/g2mHoPOLVH4/tech-lab-quick-start-guide) after Installation.
 
-Our Official Website (https://www.techlabproject.org) or Patreon (https://www.patreon.com/techlabproject)
+Our Official Website (https://techlabproject.org) or Patreon (https://patreon.com/techlabproject)
 
 
 ## Software List (Will be updated)
 
-- FreeBSD 12.1 (https://www.freebsd.org/)
-- Webmin 1.974 (https://www.webmin.com/)
-- Metasploit Framework 4.19.1 (https://www.metasploit.com/)
-- Aircrack-ng 1.6 (https://www.aircrack-ng.org/) (Git is cloned, needs to be made with make / gmake)
+- FreeBSD 12.1 (https://freebsd.org/)
+- Webmin 1.974 (https://webmin.com/)
+- Metasploit Framework 4.19.1 (https://metasploit.com/)
+- Aircrack-ng 1.6 (https://aircrack-ng.org/) (Git is cloned, needs to be made with make / gmake)
 - Nikto 2.1.6 (https://github.com/sullo/nikto)
 - NMAP 7.9 (https://nmap.org/)
 - SQLMap 1.5 (https://sqlmap.org/)
