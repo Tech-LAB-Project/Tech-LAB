@@ -11,6 +11,7 @@ Our Official Website (https://www.techlabproject.org) or Patreon (https://www.pa
 
 ## Software List (Will be updated)
 
+- FreeBSD 12.1 (https://www.freebsd.org/)
 - Webmin 1.974 (https://www.webmin.com/)
 - Metasploit Framework 4.19.1 (https://www.metasploit.com/)
 - Aircrack-ng 1.6 (https://www.aircrack-ng.org/) (Git is cloned, needs to be made with make / gmake)
