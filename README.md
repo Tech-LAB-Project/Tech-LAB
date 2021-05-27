@@ -2,7 +2,7 @@
 
 ## All in one DIY Pentesting OS
 
-[Official Website](https://www.techlabproject.org) [Patreon](https://www.patreon.com/techlabproject)
+Our only [Official Website](https://www.techlabproject.org) or [Patreon](https://www.patreon.com/techlabproject)
 
 To Install Tech-LAB you need a RPI3 or RPI4, just burn the Image onto an SD Card and you're up and running!
 
