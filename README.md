@@ -33,7 +33,7 @@ Our Official Website (https://techlabproject.org) or Patreon (https://patreon.co
 
 If you mess up your AP, just use the command `sh techlabreset.sh` (in ~ of root) to reset the AP
 
-To use your Tech-LAB you might have to change some settings, please email us at [mailto:bugs@techlabproject.org]
+To use your Tech-LAB you might have to change some settings, please email us at [Mail](mailto:bugs@techlabproject.org)
 
 Have Fun!
 
