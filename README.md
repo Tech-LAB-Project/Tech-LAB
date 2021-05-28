@@ -23,6 +23,7 @@ Our [Official Website](https://techlabproject.org) or [Patreon](https://patreon.
 
 
 ## Download Release .img
+- [v2.2-stable (GUI)](https://anonfiles.com/d1fau3y1u1/Tech-LAB-2.2-RELEASE-CURRENT-RPI3_7z)
 - [v1.6-stable](https://anonfiles.com/ZfN5o5ybu8/Tech-LAB-1.6-RELEASE-STABLE-RPI3_7z)
 - [v1.5-alpha](https://anonfiles.com/H5u1mdybud/Tech-LAB-1.5-ALPHA-RPI3_7z)
 - [v1.4-alpha](https://anonfiles.com/l5q4b2x4u9/Tech-LAB-1.4-ALPHA-RPI3_7z)
