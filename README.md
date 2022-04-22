@@ -17,7 +17,7 @@ Our [Official Website](https://techlabproject.org) or [Patreon](https://patreon.
 
 ## Download Release .img
 - [v1.6-stable](https://1drv.ms/u/s!AusB6HHx-2EqpmU0RCeq-s0W8t8m)
-- 
+
 Dont forget to decompress your File using [7Zip](https://7zip.org)
 ## Configuration
 If you mess up your AP, just use the command `sh techlabreset.sh` (in ~ of root) to reset the AP
