@@ -3,6 +3,7 @@
 To Install Tech-LAB you need a RPI3 or RPI4, just burn the Image onto an SD Card and you're up and running!
 [Quick Start Guide](https://venngage.net/ps/g2mHoPOLVH4/tech-lab-quick-start-guide) after Installation.
 Our [Official Website](https://techlabproject.org) or [Patreon](https://patreon.com/techlabproject)
+
 ## Software List (Will be updated)
 - [FreeBSD 12.1](https://freebsd.org/)
 - [Webmin 1.974](https://webmin.com/)
@@ -23,7 +24,10 @@ Our [Official Website](https://techlabproject.org) or [Patreon](https://patreon.
 Dont forget to decompress your File using [7Zip](https://7zip.org)
 ## Configuration
 If you mess up your AP, just use the command `sh techlabreset.sh` (in ~ of root) to reset the AP
+
 To use your Tech-LAB you might have to change some settings, please email us at [Mail](mailto:bugs@techlabproject.org)
+
 Have Fun!
+
 ## Disclaimer
 Pentesting Software for authorized auditing/security analysis only where permitted. Subject to local and international laws where applicable. Users solely responsible for compliance. Tech-LAB comes WITHOUT WARRANTY or SUPPORT!
